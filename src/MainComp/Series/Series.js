@@ -8,7 +8,7 @@ export default function Series() {
 
 
 
-    const api="eb174133a332dcdc4dbaf12f0723b142"
+    // const api="eb174133a332dcdc4dbaf12f0723b142"
     const [page, setPage] = useState(1);
     const [content, setcontent] = useState([]);
     const [no_pages, setno_pages] = useState(100);

@@ -1,5 +1,5 @@
-import React from 'react'
-import { Genres } from './Genres';
+// import React from 'react'
+// import { Genres } from './Genres';
 
 const UseGenres=(selectedGenres)=>{
 
