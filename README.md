@@ -31,7 +31,11 @@ IMDb rating,
 
 ScreenShort
 
-
+![](https://github.com/BiswajitDeori/Moviehub/blob/main/img1.png?raw=true)
+![](https://github.com/BiswajitDeori/Moviehub/blob/main/img3.png?raw=true)
+![](https://github.com/BiswajitDeori/Moviehub/blob/main/img4.png?raw=true)
+![](https://github.com/BiswajitDeori/Moviehub/blob/main/img6.png?raw=true)
+![](https://github.com/BiswajitDeori/Moviehub/blob/main/img7.png?raw=true)
 
 
 ## Acknowledgments
